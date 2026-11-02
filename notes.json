@@ -1,9 +1,5 @@
 [
     {
-        "id": 1,
-        "title": "Postgres"
-    },
-    {
         "id": 2,
         "title": "Prisma"
     }
